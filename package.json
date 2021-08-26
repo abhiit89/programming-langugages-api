@@ -20,6 +20,6 @@
   "homepage": "https://github.com/geshan/programming-langugages-api#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mysql2": "^2.2.5"
+    "mysql2": "^2.3.0"
   }
 }
